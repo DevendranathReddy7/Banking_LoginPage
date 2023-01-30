@@ -1,0 +1,36 @@
+.row{
+    background-color: aliceblue;
+}
+.heading{
+    font-family: "Montserrat";
+    color: black;
+    font-weight: 700;
+    padding-top: 2%;
+    padding-left: 5%;
+
+}
+.extra{
+    display: block;
+}
+.a1{
+    float: left;
+}
+.a2{
+    float: right;
+}
+.image{
+    width: 60%;
+
+}
+h3{
+    font-family: "Montserrat";
+    color: black;
+    font-size: 17px;
+    
+}
+.credentails, .more{
+    padding: 2% 7% ;
+}
+.credentails{
+    padding-left: 10%;
+}
